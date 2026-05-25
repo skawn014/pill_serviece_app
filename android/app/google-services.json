@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "211420491425",
+    "project_id": "pill-service",
+    "storage_bucket": "pill-service.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211420491425:android:feef813672b7cc9648cae0",
+        "android_client_info": {
+          "package_name": "com.example.pill_service_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYcCV5n65LOmszTSDpS9V70pj1sjPAwUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
